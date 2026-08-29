@@ -10,15 +10,17 @@
     
 <?php
 
+/* ATIVIDADE 3 PHP */
+
 echo "Testando aspas duplas";
 echo "<br>";
 echo 'Testando aspas simples';
 echo "<br>";
 
-$nome = "Marcela";
-$idade = 30;
+$nome = "Kauan";
+$idade = 21;
 
-echo "<br> Olá, eu sou a $nome e tenho $idade anos";
+echo "<br> Olá, eu sou a $nome e tenho $idade anos.";
 
 ?>
 
